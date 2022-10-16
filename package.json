@@ -2,9 +2,10 @@
   "name": "knights-travail",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "start": "node main.js"
+    "start": "node main.js",
+    "watch": "nodemon ."
   },
   "keywords": [],
   "author": "",
